@@ -95,7 +95,8 @@ Dataset used in project logic:
 
 ⚡ How It Works
 
-![Uploading image.png…]()
+<img width="1520" height="183" alt="Screenshot 2026-04-13 162401" src="https://github.com/user-attachments/assets/8dd296ef-b38f-479e-9e0d-4668808afcb5" />
+
 
 📈 Sample Output
 📊 Energy Forecast Graph
